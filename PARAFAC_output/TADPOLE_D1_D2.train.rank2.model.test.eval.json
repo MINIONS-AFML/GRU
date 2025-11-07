@@ -1,0 +1,14 @@
+{
+  "global_rmse": 0.012184475225247156,
+  "global_mae": 0.005016818006151743,
+  "global_r2": 0.5292287823930565,
+  "per_patient_rmse_mean": 0.011506308640583746,
+  "per_patient_rmse_std": 0.0040082786807168905,
+  "per_patient_mae_mean": 0.005016818006151744,
+  "per_patient_mae_std": 0.002770105399766633,
+  "per_patient_r2_mean": 0.5057289564818422,
+  "per_patient_r2_std": 0.23602929956665566,
+  "n_patients": 151,
+  "F": 38,
+  "T": 21
+}
